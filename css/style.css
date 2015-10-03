@@ -1,5 +1,5 @@
 body {
-    background-image: url('../img/IMG_1412.jpg');
+    background-image: url('../img/%5Bwallcoo_com%5D_LOMO_lomography_La%20Turbie%20scooter.jpg');
     no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -12,7 +12,8 @@ body {
     color: black font-size: 120px;
     text-align: center;
     font-weight: 400;
-    font-size: 60px
+    font-size: 60px;
+    margin-top: 30px;
 }
 
 footer {
