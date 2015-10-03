@@ -7,9 +7,12 @@ body {
     background-size: cover;
 }
 
-h1 {
+#font {
+    font-family: 'Poiret One', cursive;
     color: black font-size: 120px;
     text-align: center;
+    font-weight: 400;
+    font-size: 60px
 }
 
 footer {
@@ -65,10 +68,10 @@ footer {
     text-decoration: none;
     display: block;
     padding: 15px 25px;
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'Poiret One', cursive;
     font-weight: 700;
     text-transform: uppercase;
-    font-size: 14px;
+    font-size: 19px;
     position: relative;
     -webkit-transition: color .25s;
     -moz-transition: color .25s;
